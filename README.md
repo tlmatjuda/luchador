@@ -32,8 +32,8 @@ A Python script to scrape famous Quotes by various people from a website, save t
    ```bash
    python scrapper.py
    ```
-2. Check for the output files in : `./files-output`and open the CSV file ( quotes.csv ) to check out the content 
-3. Connec the SQL Lite 3 database and check the records with :
+2. Check for the output files in : `./files-output`and open the CSV file `quotes.csv`  to check out the content 
+3. Connec the SQL Lite 3 database `quotes.db` and check the records with :
 
     ```bash
    SELECT * FROM quotes;
