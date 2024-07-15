@@ -14,7 +14,7 @@ A Python script to scrape famous Quotes by various people from a website, save t
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/luchador.git](https://github.com/tlmatjuda/luchador.git)
+   git clone https://github.com/tlmatjuda/luchador.git
    cd luchador
    ```
 2. Install the required packages:
